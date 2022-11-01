@@ -1,2 +1,1 @@
-# betest
-
+<!-- copyright (i7) --><div align="center"><a href="https://github.com/JustForEducate" title="Привет как дела"><img style="margin:0;padding:0;border:0;" alt="Hosted by GitHub" src="https://media.tenor.com/kHcmsxlKHEAAAAAC/rock-one-eyebrow-raised-rock-staring.gif" width="500" height="500" title="Hosted by GitHub" /></a><br /></div><!-- /copyright -->
